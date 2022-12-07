@@ -16,7 +16,7 @@ For Android security testing aids.
 
 # Introduce
 
-只是为了让自己熟练掌握一些工具用法以及方便自己做安卓测试而已 
+只是为了让自己熟练掌握一些工具用法以及方便自己做安卓测试而已 等我把一些有用的功能都加上去就开源
 
 # Thanks
 
